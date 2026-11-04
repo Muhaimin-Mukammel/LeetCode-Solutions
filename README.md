@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
 ## Bit Manipulation
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
