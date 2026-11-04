@@ -26,7 +26,7 @@ jobs:
             fi
           done
 
-          # Also move any other numbered folders that might exist
+          # Catch any other numbered folders
           for dir in [0-9]*-*; do
             if [ -d "$dir" ] && [[ ! "$dir" =~ ^problems ]]; then
               echo "Moving $dir → problems/Easy/"
@@ -34,8 +34,24 @@ jobs:
             fi
           done
 
-          echo "Done!"
-          ls -la problems/Easy/ || true
+      - name: Fix README links
+        run: |
+          if [ -f README.md ]; then
+            echo "Updating links in README.md..."
+            
+            # Replace old paths with new paths
+            # Example: /0035-search-insert-position → /problems/Easy/0035-search-insert-position
+            sed -i -E 's|(tree/master/)([0-9]+-[a-z0-9-]+)|\1problems/Easy/\2|g' README.md
+            sed -i -E 's|(tree/main/)([0-9]+-[a-z0-9-]+)|\1problems/Easy/\2|g' README.md
+            
+            # Also fix relative links if any
+            sed -i -E 's|\./([0-9]+-[a-z0-9-]+)|\./problems/Easy/\1|g' README.md
+            sed -i -E 's|\(([0-9]+-[a-z0-9-]+)\)|(problems/Easy/\1)|g' README.md
+            
+            echo "README links updated."
+          else
+            echo "No README.md found"
+          fi
 
       - name: Commit and push changes
         run: |
@@ -47,6 +63,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: reorganize solutions into problems/Easy"
+            git commit -m "chore: reorganize solutions into problems/Easy + fix README links"
             git push
           fi
