@@ -46,9 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
