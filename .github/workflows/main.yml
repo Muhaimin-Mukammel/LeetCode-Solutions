@@ -1,0 +1,52 @@
+name: Reorganize LeetCode Solutions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  reorganize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Reorganize folders
+        run: |
+          echo "Creating clean structure..."
+          mkdir -p problems/Easy problems/Medium problems/Hard
+
+          echo "Moving existing problem folders..."
+          for dir in [0-9][0-9][0-9][0-9]-*; do
+            if [ -d "$dir" ]; then
+              echo "Moving $dir → problems/Easy/"
+              mv "$dir" problems/Easy/
+            fi
+          done
+
+          # Also move any other numbered folders that might exist
+          for dir in [0-9]*-*; do
+            if [ -d "$dir" ] && [[ ! "$dir" =~ ^problems ]]; then
+              echo "Moving $dir → problems/Easy/"
+              mv "$dir" problems/Easy/
+            fi
+          done
+
+          echo "Done!"
+          ls -la problems/Easy/ || true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: reorganize solutions into problems/Easy"
+            git push
+          fi
