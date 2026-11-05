@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0217-contains-duplicate) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
