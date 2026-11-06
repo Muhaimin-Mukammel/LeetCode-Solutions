@@ -17,23 +17,34 @@ jobs:
         run: |
           echo "Creating clean structure..."
           mkdir -p problems/Easy problems/Medium problems/Hard
-
+      
           echo "Moving existing problem folders..."
-          for dir in [0-9][0-9][0-9][0-9]-*; do
-            if [ -d "$dir" ]; then
-              echo "Moving $dir → problems/Easy/"
-              mv "$dir" problems/Easy/
+      
+          # Example for one folder (or put this logic inside your loop)
+          for folder in */; do
+            folder=${folder%/}   # remove trailing slash
+      
+            # Skip if it's already inside problems/ or is a special folder
+            if [[ "$folder" == "problems" || "$folder" == ".github" || "$folder" == "README.md" ]]; then
+              continue
             fi
-          done
-
-          # Catch any other numbered folders
-          for dir in [0-9]*-*; do
-            if [ -d "$dir" ] && [[ ! "$dir" =~ ^problems ]]; then
-              echo "Moving $dir → problems/Easy/"
-              mv "$dir" problems/Easy/
+      
+            # Decide difficulty (you may already have this logic)
+            # For now assuming you know the difficulty or have a way to detect it
+            difficulty="Easy"   # ← replace with your real logic
+      
+            target="problems/$difficulty/$folder"
+      
+            # === FIX STARTS HERE ===
+            if [ -d "$target" ]; then
+              echo "Target $target already exists. Removing old one..."
+              rm -rf "$target"
             fi
+      
+            mv "$folder" "$target"
+            # === FIX ENDS HERE ===
           done
-
+    
       - name: Fix README links
         run: |
           if [ -f README.md ]; then
