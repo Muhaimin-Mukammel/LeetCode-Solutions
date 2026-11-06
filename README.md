@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
