@@ -4,10 +4,6 @@ class Solution {
 
         int[] freq = new int[256];
 
-        for( int i = 0; i < s.length(); i++){
-            
-        }
-
         for(char c : arr){
             freq[c]++;
         }
