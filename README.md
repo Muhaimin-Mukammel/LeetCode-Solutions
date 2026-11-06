@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 ## String Matching
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0509-fibonacci-number) |
 ## Memoization
@@ -141,4 +143,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
