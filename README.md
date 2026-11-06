@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
