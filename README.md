@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0326-power-of-three) |
@@ -138,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
