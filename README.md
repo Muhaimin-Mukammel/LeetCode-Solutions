@@ -5,12 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0001-two-sum) |
-| [0014-longest-common-prefix](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0014-longest-common-prefix](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0027-remove-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0035-search-insert-position) |
-| [0053-maximum-subarray](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
-| [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0053-maximum-subarray](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0169-majority-element) |
@@ -23,7 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
-| [0141-linked-list-cycle](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0141-linked-list-cycle](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0242-valid-anagram) |
@@ -33,7 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0053-maximum-subarray](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0169-majority-element) |
 ## Sorting
 |  |
@@ -57,10 +57,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
-| [0014-longest-common-prefix](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0014-longest-common-prefix](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0242-valid-anagram) |
-| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0412-fizz-buzz) |
@@ -86,7 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
-| [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 ## Interactive
@@ -97,18 +97,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
-| [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
-| [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0027-remove-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0088-merge-sorted-array) |
-| [0141-linked-list-cycle](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
-| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0141-linked-list-cycle](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 ## String Matching
@@ -134,18 +134,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
-| [0053-maximum-subarray](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0053-maximum-subarray](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
-| [0203-remove-linked-list-elements](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0021-merge-two-sorted-lists](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
-| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0509-fibonacci-number) |
 ## Memoization
@@ -156,65 +156,65 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
-| [0141-linked-list-cycle](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
-| [0203-remove-linked-list-elements](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0021-merge-two-sorted-lists](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
-| [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
-| [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
-| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0112-path-sum) |
-| [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0112-path-sum) |
-| [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0112-path-sum) |
-| [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0112-path-sum) |
-| [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
-| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
-| [0141-linked-list-cycle](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0141-linked-list-cycle](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0141-linked-list-cycle) |
 ## Design
 |  |
 | ------- |
-| [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
-| [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0232-implement-queue-using-stacks) |
 ## Trie
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0014-longest-common-prefix](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0014-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
-| [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0078-subsets) |
-| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
