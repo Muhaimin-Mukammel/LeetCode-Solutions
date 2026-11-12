@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
