@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0412-fizz-buzz) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0234-palindrome-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
