@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
