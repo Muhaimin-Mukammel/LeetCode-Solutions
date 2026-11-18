@@ -10,7 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0053-maximum-subarray) |
-| [0066-plus-one](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0066-plus-one](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0066-plus-one) |
 | [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0121-best-time-to-buy-and-sell-stock) |
@@ -19,9 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
-| [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0733-flood-fill) |
-| [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0744-find-smallest-letter-greater-than-target) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,12 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
-| [0066-plus-one](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0066-plus-one](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0326-power-of-three) |
-| [0367-valid-perfect-square](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0367-valid-perfect-square](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0509-fibonacci-number) |
 ## Binary Search
@@ -87,10 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
-| [0367-valid-perfect-square](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0367-valid-perfect-square](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
-| [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,8 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0387-first-unique-character-in-a-string) |
-| [0933-number-of-recent-calls](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [0933-number-of-recent-calls](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,7 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0412-fizz-buzz) |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,7 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0234-palindrome-linked-list) |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -197,14 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
-| [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
-| [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,7 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0232-implement-queue-using-stacks) |
-| [0933-number-of-recent-calls](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [0933-number-of-recent-calls](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -235,9 +235,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
-| [0933-number-of-recent-calls](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [0933-number-of-recent-calls](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
-| [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 <!---LeetCode Topics End-->
