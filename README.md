@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0697-degree-of-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0744-find-smallest-letter-greater-than-target) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0387-first-unique-character-in-a-string) |
+| [0697-degree-of-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
