@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
+| [0136-single-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 ## Interactive
