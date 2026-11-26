@@ -14,19 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0121-best-time-to-buy-and-sell-stock) |
-| [0136-single-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0136-single-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0136-single-number) |
 | [0169-majority-element](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0463-island-perimeter) |
-| [0697-degree-of-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0463-island-perimeter) |
+| [0697-degree-of-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0744-find-smallest-letter-greater-than-target) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/1700-number-of-students-unable-to-eat-lunch) |
-| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,9 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0387-first-unique-character-in-a-string) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0697-degree-of-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
-| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0448-find-all-numbers-disappeared-in-an-array) |
+| [0697-degree-of-an-array](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0697-degree-of-an-array) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,7 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
-| [0009-palindrome-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0009-palindrome-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0070-climbing-stairs) |
@@ -104,7 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
-| [0136-single-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0136-single-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0136-single-number) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
 ## Interactive
@@ -196,7 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
@@ -205,11 +205,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
-| [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -217,14 +217,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
-| [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
@@ -254,10 +254,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
-| [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 ## Greedy
 |  |
 | ------- |
-| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/3487-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
