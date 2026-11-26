@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0744-find-smallest-letter-greater-than-target) |
+| [1672-richest-customer-wealth](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/1700-number-of-students-unable-to-eat-lunch) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0733-flood-fill) |
+| [1672-richest-customer-wealth](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
