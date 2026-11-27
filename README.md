@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0345-reverse-vowels-of-a-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0066-plus-one) |
+| [0067-add-binary](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0268-missing-number) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0078-subsets) |
 | [0136-single-number](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0136-single-number) |
 | [0231-power-of-two](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0231-power-of-two) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Muhaimin-Mukammel/LeetCode-Solutions/tree/master/problems/Easy/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
